@@ -18,7 +18,9 @@ Periodically, the release team discusses and consults others on the following th
 
 ## How does this further the Rust Project goals?
 
-TODO
+* Release management is a core responsibility within the Rust project
+* Rust's success is dependent upon it's ability to effectively and regularly distribute updates to the compiler to our users.
+* The release team makes sure this process goes smoothly
 
 ## Responsibilities & Commitments
 
