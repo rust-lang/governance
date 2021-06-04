@@ -11,7 +11,7 @@ are not looking for new teams to submit charter proposals directly to this
 repository; please reach out to the core team if you are interested in proposing
 a new team.
 
-For the existing Rust teams, you can take the [template](TEMPLATE.md), and begin
+For the existing Rust teams, you can take the [template](teams/_template/charter.md), and begin
 filling it out. Please file issues or reach out to the core team via email if
 you have questions. We'll also be reaching out to teams ourselves to help out,
 but getting a head start is great.
