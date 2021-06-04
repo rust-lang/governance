@@ -20,7 +20,7 @@ This team is accountable for keeping cardough, lifethyme, eggex, libbrie, std::s
 
 ### [Responsible for work](../../common/darci.md#responsible-for-work)
 
-This team is responsible for maintaining the stdlib APIs like std::bitter and std::sink, and any other of its bakery-related crates listed above that have not been delegated to subteams.
+This team is responsible for doing the work for maintaining the stdlib APIs like std::bitter and std::sink, and any other of its bakery-related crates listed above that have not been delegated to subteams.
 
 ### [Consulted for input](../../common/darci.md#consulted-for-input)
 
