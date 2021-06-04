@@ -10,33 +10,33 @@ Breadmaking has been identified as a key strategic goal for the Rust project, wh
 
 ## Responsibilities & Commitments
 
-### [Decision Maker](https://github.com/rust-lang/governance/blob/master/common/darci.md#decision-maker)
+### [Decision Maker](../../common/darci.md#decision-maker)
 
 This team makes decisions on the evolution of various bread-related libraries in Rust, including cardough, lifethyme, eggex, compiler_built_tins, and libbrie. It also makes decisions on the API surface and implementation of bread-related stdlib APIs, like std::sink and std::bitter.
 
-### [Accountable for results](https://github.com/rust-lang/governance/blob/master/common/darci.md#accountable-for-results)
+### [Accountable for results](../../common/darci.md#accountable-for-results)
 
 This team is accountable for keeping cardough, lifethyme, eggex, libbrie, std::sink and std::bitter relatively bug free. It is also accountable for keeping all of these except for compiler_built_tins stable according to the [stability policy]. The maintenance of the crates may be delegated to subteams.
 
-### [Responsible for work](https://github.com/rust-lang/governance/blob/master/common/darci.md#responsible-for-work)
+### [Responsible for work](../../common/darci.md#responsible-for-work)
 
 This team is responsible for maintaining the stdlib APIs like std::bitter and std::sink, and any other of its bakery-related crates listed above that have not been delegated to subteams.
 
-### [Consulted for input](https://github.com/rust-lang/governance/blob/master/common/darci.md#consulted-for-input)
+### [Consulted for input](../../common/darci.md#consulted-for-input)
 
 This team must be consulted when bread-related language features like Const Turmerics are being designed.
 
-### [Informed of change](https://github.com/rust-lang/governance/blob/master/common/darci.md#informed-of-change)
+### [Informed of change](../../common/darci.md#informed-of-change)
 
 This team should be informed of tooling and language changes which will impact their bread-related libraries.
 
 ## How does this group make decisions?
 
-We use the [RFC process and FCPs on issues](https://github.com/rust-lang/governance/blob/master/common/rfc_fcp.md). The team has meetings to approach consensus, but the final reasoning behind the decisions is laid out in the open as part of the RFC/FCP process.
+We use the [RFC process and FCPs on issues](../../common/rfc_fcp.md). The team has meetings to approach consensus, but the final reasoning behind the decisions is laid out in the open as part of the RFC/FCP process.
 
 ## What work is not specifically part of maintainership?
 
-These activities may be carried out by contributors or maintainers, but are not considered core activities that ‘count’ towards [maintainership](https://github.com/rust-lang/governance/blob/master/common/membership_types.md#maintainership)
+These activities may be carried out by contributors or maintainers, but are not considered core activities that ‘count’ towards [maintainership](../../common/membership_types.md#maintainership)
 
 *   Research into different kinds of bread and recipe variations
 *   Non-strategic (i.e. ‘pet’) feature creation in bakery-related libraries
@@ -59,9 +59,9 @@ Team members are expected to:
 *   Be accessible members of the Rust project regarding bread making questions, specifically ensuring they are responding to and participating in conversations on their communication channel of choice
 *   Bake at least five (5) loaves of bread per week, coordinating distribution within the project with other members of the team
 *   Maintaining a prioritised set of activities, and demonstrating monthly progress on the most impactful items
-*   Follow the [common member requirements](https://github.com/rust-lang/governance/blob/master/common/member_requirements.md)
+*   Follow the [common member requirements](../../common/member_requirements.md)
 
-Team members can take a break from these expectations as outlined in the [Vacation Policy](https://github.com/rust-lang/governance/blob/master/common/vacation_policy.md)
+Team members can take a break from these expectations as outlined in the [Vacation Policy](../../common/vacation_policy.md)
 
 ## How is team membership managed?
 
@@ -73,7 +73,7 @@ Team members can take a break from these expectations as outlined in the [Vacati
 
 **The limit on number of team members is**: 3
 
-[TODO: reference stdlib content about “[here are the mechanics of team management](https://github.com/rust-lang/governance/blob/master/common/membership_changes.md)”]
+[TODO: reference stdlib content about “[here are the mechanics of team management](../../common/membership_changes.md)”]
 
 ## Where does this team work?
 
