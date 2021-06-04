@@ -24,19 +24,19 @@ Periodically, the release team discusses and consults others on the following th
 
 ## Responsibilities & Commitments
 
-### [Decision Maker](https://github.com/rust-lang/governance/blob/master/common/darci.md#decision-maker)
+### [Decision Maker](../../common/darci.md#decision-maker)
 
 TODO
 
 * Whether to issue a stable point release?
 
-### [Accountable](https://github.com/rust-lang/governance/blob/master/common/darci.md#accountable)
+### [Accountable for results](../../common/darci.md#accountable-for-results)
 
 TODO
 
 * Triage subgroup responsibilities
 
-### [Responsible](https://github.com/rust-lang/governance/blob/master/common/darci.md#responsible)
+### [Responsible for work](../../common/darci.md#responsible-for-work)
 
 TODO
 
@@ -45,7 +45,7 @@ TODO
 * Release blog posts
 * Beta backport management
 
-### [Consulted](https://github.com/rust-lang/governance/blob/master/common/darci.md#consulted)
+### [Consulted for input](../../common/darci.md#consulted-for-input)
 
 TODO
 
@@ -53,7 +53,7 @@ TODO
 * Target policies, such as deprecation and stabilization for tier-1 targets
 * Toolchain distribution (e.g., rustup <> dist builds interaction)
 
-### [Informed](https://github.com/rust-lang/governance/blob/master/common/darci.md#informed)
+### [Informed of change](../../common/darci.md#informed-of-change)
 
 TODO
 
@@ -84,7 +84,7 @@ Team members are expected to:
 * Manage Crater kickoff and triage
 * Track and perform check-ins for regressions
 * Draft release blog posts
-* Follow the [common member requirements](https://github.com/rust-lang/governance/blob/master/common/member_requirements.md)
+* Follow the [common member requirements](../../common/member_requirements.md)
 
 Team members can take a break from these expectations as outlined in the [Vacation Policy](https://github.com/rust-lang/governance/blob/master/common/vacation_policy.md)
 
