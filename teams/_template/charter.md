@@ -38,9 +38,9 @@ We use the [RFC process and FCPs on issues](../../common/rfc_fcp.md). The team h
 
 These activities may be carried out by contributors or maintainers, but are not considered core activities that ‘count’ towards [maintainership](../../common/membership_types.md#maintainership)
 
-*   Research into different kinds of bread and recipe variations
-*   Non-strategic (i.e. ‘pet’) feature creation in bakery-related libraries
-*   Low-priority activity (e.g. minor bug fixing)
+* Research into different kinds of bread and recipe variations
+* Non-strategic (i.e. ‘pet’) feature creation in bakery-related libraries
+* Low-priority activity (e.g. minor bug fixing)
 
 # Team Processes
 
@@ -54,12 +54,12 @@ The single accountable point of contact for the state of the team is: the team l
 
 Team members are expected to:
 
-*   Perform outreach to local bakeries to understand their needs - 3 1hr calls per month, plus write-ups
-*   Perform non-trivial maintainership (PR creation/review, issue triage) of bakery-related libraries to the tune of 5 hours per week
-*   Be accessible members of the Rust project regarding bread making questions, specifically ensuring they are responding to and participating in conversations on their communication channel of choice
-*   Bake at least five (5) loaves of bread per week, coordinating distribution within the project with other members of the team
-*   Maintaining a prioritised set of activities, and demonstrating monthly progress on the most impactful items
-*   Follow the [common member requirements](../../common/member_requirements.md)
+* Perform outreach to local bakeries to understand their needs - 3 1hr calls per month, plus write-ups
+* Perform non-trivial maintainership (PR creation/review, issue triage) of bakery-related libraries to the tune of 5 hours per week
+* Be accessible members of the Rust project regarding bread making questions, specifically ensuring they are responding to and participating in conversations on their communication channel of choice
+* Bake at least five (5) loaves of bread per week, coordinating distribution within the project with other members of the team
+* Maintaining a prioritised set of activities, and demonstrating monthly progress on the most impactful items
+* Follow the [common member requirements](../../common/member_requirements.md)
 
 Team members can take a break from these expectations as outlined in the [Vacation Policy](../../common/vacation_policy.md)
 
