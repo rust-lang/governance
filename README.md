@@ -9,8 +9,7 @@ this repository.
 The Rust teams are in the process of writing charters this year. Currently, we
 are not looking for new teams to submit charter proposals directly to this
 repository; please reach out to the core team if you are interested in proposing
-a new team. (FIXME: we likely don't have bandwidth to respond, so shouldn't make
-this offer perhaps?)
+a new team.
 
 For the existing Rust teams, you can take the [template](TEMPLATE.md), and begin
 filling it out. Please file issues or reach out to the core team via email if
