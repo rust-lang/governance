@@ -14,19 +14,19 @@ Breadmaking has been identified as a key strategic goal for the Rust project, wh
 
 This team makes decisions on the evolution of various bread-related libraries in Rust, including cardough, lifethyme, eggex, compiler_built_tins, and libbrie. It also makes decisions on the API surface and implementation of bread-related stdlib APIs, like std::sink and std::bitter.
 
-### [Accountable](https://github.com/rust-lang/governance/blob/master/common/darci.md#accountable)
+### [Accountable for results](https://github.com/rust-lang/governance/blob/master/common/darci.md#accountable-for-results)
 
 This team is accountable for keeping cardough, lifethyme, eggex, libbrie, std::sink and std::bitter relatively bug free. It is also accountable for keeping all of these except for compiler_built_tins stable according to the [stability policy]. The maintenance of the crates may be delegated to subteams.
 
-### [Responsible](https://github.com/rust-lang/governance/blob/master/common/darci.md#responsible)
+### [Responsible for work](https://github.com/rust-lang/governance/blob/master/common/darci.md#responsible-for-work)
 
 This team is responsible for maintaining the stdlib APIs like std::bitter and std::sink, and any other of its bakery-related crates listed above that have not been delegated to subteams.
 
-### [Consulted](https://github.com/rust-lang/governance/blob/master/common/darci.md#consulted)
+### [Consulted for input](https://github.com/rust-lang/governance/blob/master/common/darci.md#consulted-for-input)
 
 This team must be consulted when bread-related language features like Const Turmerics are being designed.
 
-### [Informed](https://github.com/rust-lang/governance/blob/master/common/darci.md#informed)
+### [Informed of change](https://github.com/rust-lang/governance/blob/master/common/darci.md#informed-of-change)
 
 This team should be informed of tooling and language changes which will impact their bread-related libraries.
 
