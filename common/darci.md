@@ -18,7 +18,7 @@ This is the set of topics on which the group are the ones engaged in the active 
 ## Consulted for input
 This is the set of topics on which this group should be consulted. In particular, consultation means that the group may have feedback, but they are not going to make any final decisions.
 
-## Informed of change
+## Informed for awareness
 
 This is the set of topics on which this group should be informed. This means that the group will not necessarily have to provide feedback on the topic.
 
