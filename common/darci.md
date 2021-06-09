@@ -1,6 +1,7 @@
 # The DARCI framework
 
-Team charters will have a section on "Responsibilities and Commitments" that lay out the team responsibilities according to the DARCI framework:
+Team charters will have a section on "Responsibilities and Commitments" that lay out the team responsibilities according to the DARCI framework. The items in this framework are arranged roughly by decreasing levels of responsibility.
+
 
 ## Decision maker
 
