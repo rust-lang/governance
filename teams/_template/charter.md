@@ -26,7 +26,7 @@ This team is responsible for doing the work for maintaining the stdlib APIs like
 
 This team must be consulted when bread-related language features like Const Turmerics are being designed.
 
-### [Informed of change](../../common/darci.md#informed-of-change)
+### [Informed for results](../../common/darci.md#informed-for-results)
 
 This team should be informed of tooling and language changes which will impact their bread-related libraries.
 
