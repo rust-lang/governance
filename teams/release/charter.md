@@ -53,7 +53,7 @@ TODO
 * Target policies, such as deprecation and stabilization for tier-1 targets
 * Toolchain distribution (e.g., rustup <> dist builds interaction)
 
-### [Informed of change](../../common/darci.md#informed-of-change)
+### [Informed for awareness](../../common/darci.md#informed-for-awareness)
 
 TODO
 

@@ -49,7 +49,7 @@ TODO or leave empty?
 
 This team must be consulted language or tooling changes that affect the suitability of their APIs are being designed.
 
-### [Informed for results](../../common/darci.md#informed-for-results)
+### [Informed for awareness](../../common/darci.md#informed-for-awareness)
 
 TODO or leave empty?
 
