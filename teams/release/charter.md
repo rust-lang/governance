@@ -77,7 +77,13 @@ Team members can take a break from these expectations as outlined in the [Vacati
 
 ## How is team membership managed?
 
-TODO
+**People join the team by**: TODO
+
+**People leave the team by**: TODO
+
+**People on the team are audited by**: TODO
+
+**The current limit on number of team members is**: TODO
 
 ## Where does this team work?
 
