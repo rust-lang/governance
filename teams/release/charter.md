@@ -4,19 +4,7 @@
 
 # Mission
 
-The release team manages the releases of the Rust project. This primarily consists of the following activities:
-
-* Regression triage (shared with T-compiler)
-* Release notes drafting
-* Release blog posts
-* Releasing itself (i.e. buttons, timing, process)
-* Whether to issue a stable point release?
-* Beta backport management (the act itself, not approval)
-
-Periodically, the release team discusses and consults others on the following things:
-
-* Target policies, such as deprecation and stabilization for tier-1 targets
-* Toolchain distribution (e.g., rustup <> dist builds interaction)
+The release team TODO.
 
 ## How does this further the Rust Project goals?
 
@@ -32,6 +20,8 @@ Periodically, the release team discusses and consults others on the following th
     * Note that backports are approved by the compiler team for inclusion; the
       release team only makes the determination of whether to and when to issue
       the release.
+      
+Notably excluded: release cadence, delaying a stable release. (Likely those are consulted on, but decision is not in release).
 
 ### [Accountable for results](../../common/darci.md#accountable-for-results)
 
@@ -49,6 +39,7 @@ Periodically, the release team discusses and consults others on the following th
 ### [Consulted for input](../../common/darci.md#consulted-for-input)
 
 * Regression triage (shared with T-compiler)
+  * TODO - what specifically is being consulted on here?
 * Target policies, such as deprecation and stabilization for tier-1 targets
 * Toolchain distribution (e.g., rustup <> dist builds interaction)
 
