@@ -1,5 +1,7 @@
 # Libs team Charter
 
+**PROPOSED -- Not yet approved**
+
 # Mission
 
 Managing the Rust standard library and official rust-lang crates: the review process (incl. guidelines), triaging issues, overseeing the implementation and documentation, and keeping the libraries maintainable and healthy. And overseeing the other two teams.
