@@ -36,7 +36,7 @@ The release team TODO.
 
 ### [Consulted for input](../../common/darci.md#consulted-for-input)
 
-* Regression triage (shared with T-compiler)
+* Regression triage (shared with teams responsible for each part of the codebase)
   * TODO - what specifically is being consulted on here?
 * Target policies, such as deprecation and stabilization for tier-1 targets
 * Toolchain distribution (e.g., rustup <-> dist builds interaction) -- TODO define this
