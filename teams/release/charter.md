@@ -41,7 +41,7 @@ Notably excluded: release cadence, delaying a stable release. (Likely those are 
 * Regression triage (shared with T-compiler)
   * TODO - what specifically is being consulted on here?
 * Target policies, such as deprecation and stabilization for tier-1 targets
-* Toolchain distribution (e.g., rustup <> dist builds interaction) -- TODO define this
+* Toolchain distribution (e.g., rustup <-> dist builds interaction) -- TODO define this
 
 ### [Informed for awareness](../../common/darci.md#informed-for-awareness)
 
