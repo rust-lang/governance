@@ -20,8 +20,6 @@ The release team TODO.
     * Note that backports are approved by the compiler team for inclusion; the
       release team only makes the determination of whether to and when to issue
       the release.
-      
-Notably excluded: release cadence, delaying a stable release. (Likely those are consulted on, but decision is not in release).
 
 ### [Accountable for results](../../common/darci.md#accountable-for-results)
 
@@ -42,6 +40,10 @@ Notably excluded: release cadence, delaying a stable release. (Likely those are 
   * TODO - what specifically is being consulted on here?
 * Target policies, such as deprecation and stabilization for tier-1 targets
 * Toolchain distribution (e.g., rustup <-> dist builds interaction) -- TODO define this
+* Changes to the release cadence
+  * TODO: unclear who's the owner, release might end up being the decision maker
+* Delaying a stable release
+  * TODO: unclear who's the owner, release might end up being the decision maker
 
 ### [Informed for awareness](../../common/darci.md#informed-for-awareness)
 
