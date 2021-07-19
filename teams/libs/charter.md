@@ -1,14 +1,12 @@
 # Libs team Charter
 
-**PROPOSED -- Not yet approved**
-
 # Mission
 
-Managing the Rust standard library and official rust-lang crates: the review process (incl. guidelines), triaging issues, overseeing the implementation and documentation, and keeping the libraries maintainable and healthy. And overseeing the other two teams.
+Managing the Rust standard library and official rust-lang crates: the review process (incl. guidelines), triaging issues, overseeing the implementation and documentation, keeping the libraries maintainable and healthy, and overseeing the other two teams.
 
 ## How does this further the Rust Project goals?
 
-TODO
+The libs team maintains the core libraries provided by the Rust project and ensures continued maintainence and evolution of the most widely used dependencies in the Rust ecosystem.
 
 ## Responsibilities & Commitments
 
@@ -18,7 +16,7 @@ This team has two major subteams: the [API subteam] and the [library-contributor
 
 ### [Decision Maker](../../common/darci.md#decision-maker)
 
-This team makes decisions on the evolution, API surface, and implementation of the **standard libraries** and other **official rust-lang libraries**.
+This team makes decisions on the evolution, and implementation of the **standard libraries**, and other **official rust-lang libraries**.
 
 API surface decisions are delegated to the [API subteam].
 
@@ -37,7 +35,7 @@ This team is accountable for ensuring:
 This team is responsible for maintaining the **standard libraries**, which involves:
 
  - Documentation of the **standard libraries**
- - Triaging issues pertaining to the **standard libraries** (high/critical priority within ~a week)
+ - Triaging issues pertaining to the **standard libraries** (high/critical priority within < 1 week)
  - Reviewing PRs in collaboration with the [library-contributors] group
  - Supporting the [library-contributors] group with guidance, etc
  - Running [Major Change Proposals][MCP]
@@ -47,19 +45,13 @@ It is also responsible for managing the library subteams: the [API subteam], the
 
 ### [Consulted for input](../../common/darci.md#consulted-for-input)
 
-TODO or leave empty?
-
 This team must be consulted language or tooling changes that affect the suitability of their APIs are being designed.
 
 ### [Informed for awareness](../../common/darci.md#informed-for-awareness)
 
-TODO or leave empty?
-
-This team should be informed of tooling and language changes which will impact their APIs.
+This team should be informed of tooling and language changes which will impact their APIs or may change the decisions being made. For example, language changes that enable new backwards compatible library improvements.
 
 ## How does this group make decisions?
-
-TODO mention MCP?
 
 We use the [RFC process and FCPs on issues](../../common/rfc_fcp.md). The team has meetings to approach consensus, but the final reasoning behind the decisions is laid out in the open as part of the RFC/FCP process.
 
@@ -67,13 +59,15 @@ We use the [RFC process and FCPs on issues](../../common/rfc_fcp.md). The team h
 
 These activities may be carried out by contributors or maintainers, but are not considered core activities that ‘count’ towards [maintainership](../../common/membership_types.md#maintainership)
 
-TODO
+- Implementing new library features or non-critical improvements to library implementation details.
 
 # Team Processes
 
+## Making Changes to the **standard libraries**
+
 ## Contact Point
 
-In general if you wish to contact the team you should post on TODO or email TODO; we prefer TODO.
+In general if you wish to contact the team you should post a new topic on [our Zulip](https://rust-lang.zulipchat.com/#narrow/stream/219381-t-libs) or email our team at ([libs@rust-lang.org](mailto:libs@rust-lang.org)); we prefer Zulip topics.
 
 The single accountable point of contact for the state of the team is: the team lead specified on [https://github.com/rust-lang/team](https://github.com/rust-lang/team). They are the authoritative ‘switchboard’ for meta information about the team, and are the primary owner of this charter.
 
@@ -99,13 +93,9 @@ Team members can take a break from these expectations as outlined in the [Vacati
 
 **There should be some overlap between the libs team and the [API subteam], with around half of the libs team members being on the [API subteam]**
 
-
 ## Where does this team work?
 
-TODO
-
-This team has a regular weekly meeting on TODO. To determine the time of the meeting, you can  TODO. The general structure of meetings is described in TODO . Meeting minutes are recorded in TODO (or not recorded).
-
+This team has a regular weekly meeting on Jitsi which are organized on [our Zulip meetings stream](https://rust-lang.zulipchat.com/#narrow/stream/259402-t-libs.2Fmeetings). To determine the time of the meeting, you can check the [libs team calendar](https://calendar.google.com/calendar/embed?src=9kuu8evq4eh6uacm262k0phri8%40group.calendar.google.com). Meeting minutes are recorded in the [Libs team HackMD](https://hackmd.io/team/rust-libs). The general structure of meetings is defined by our [agenda generator](https://github.com/rust-lang/libs-team/tree/main/tools/agenda-generator).
 
  [MCP]: https://rust-lang.github.io/rfcs/2904-compiler-major-change-process.html
  [stability policy]: https://rust-lang.github.io/rfcs/1105-api-evolution.html
