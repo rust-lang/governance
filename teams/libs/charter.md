@@ -75,7 +75,7 @@ The Library Team runs a one hour meeting once every week to triage issues and sy
 
 ### Adding Items to the Library Team Agenda
 
-Issues and PRs can be added to the libs team agenda by tagging them with the `T-libs` and `I-nominated` labels so the agenda generator can find and include them in that week's agenda. Alternatively items can be added to the agenda directly the day of by editing that week's hackmd agenda which can be found in the [libs team hackmd] or in the [libs team zulip].
+Issues and PRs can be added to the libs team agenda by tagging them with the `T-libs` and `I-nominated` labels so the agenda generator can find and include them in that week's agenda. Alternatively items can be added ahead of time by creating a zulip topic for the upcoming meeting early in the [#t-libs/meetings](https://rust-lang.zulipchat.com/#narrow/stream/259402-t-libs.2Fmeetings) stream ([example](https://rust-lang.zulipchat.com/#narrow/stream/259402-t-libs.2Fmeetings/topic/Meetings.202021-07-21)).
 
 ## Contact Point
 
