@@ -23,9 +23,7 @@ The release team TODO.
 
 ### [Accountable for results](../../common/darci.md#accountable-for-results)
 
-* Backport management
-    * Ensuring approvals are moving along in compiler team
-    * Ensuring backports to the beta/stable branches happen
+**Currently blank**
 
 ### [Responsible for work](../../common/darci.md#responsible-for-work)
 
@@ -33,6 +31,9 @@ The release team TODO.
 * Release notes drafting
 * Creating and editing release blog posts
 * Beta crater triage
+* Backport management
+    * Ensuring approvals are moving along in compiler team
+    * Ensuring backports to the beta/stable branches happen
 
 ### [Consulted for input](../../common/darci.md#consulted-for-input)
 
@@ -72,23 +73,35 @@ These activities may be carried out by contributors or maintainers, but are not 
 Team members are expected to:
 
 * Attend weekly meetings
-* Take part in tasks the team is responsible for.
+* Take part in tasks the team is responsible for. This means declaring an
+  interest in that area and participating in work on it.
 * Follow the [common member requirements](../../common/member_requirements.md)
 
 Team members can take a break from these expectations as outlined in the [Vacation Policy](https://github.com/rust-lang/governance/blob/master/common/vacation_policy.md)
 
 ## How is team membership managed?
 
-**People join the team by**: TODO
+**People join the team by**: by nomination & decided by team with no objections, per [standard
+process](../../common/membership_changes.md).
 
-**People leave the team by**: TODO
+**People leave the team by**:
 
-**People on the team are audited by**: TODO
+* 2 week notice, ideally with arrangement for any current release cycle tasks to
+  be handed to a particular individual. Team lead(s) can help with managing
+  this.
 
-**The current limit on number of team members is**: TODO
+**People on the team are audited by**: team members declare their current area
+of interest on a regular basis (at least every 6 months), and the team lead will
+check in on a similar cadence on their participation in that area. Areas are
+enumerated in the above "Responsible for Work". Each is expected to be roughly
+the same amount of hours per cycle, but some may be more concentrated than
+others.
+
+**The current limit on number of team members is**: 10 members is the limit set
+today. This is intended to represent roughly 2x the number of areas, to allow
+for rotation and cycling amongst the team members.
 
 ## Where does this team work?
 
 The team works primarily asynchronously, and communicates using the Zulip
 `#t-release` stream.
-
