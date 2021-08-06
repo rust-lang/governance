@@ -81,8 +81,7 @@ Team members can take a break from these expectations as outlined in the [Vacati
 
 ## How is team membership managed?
 
-**People join the team by**: by nomination & decided by team with no objections, per [standard
-process](../../common/membership_changes.md).
+**People join the team by**: [Per the standard "by nomination & decided by team with no objections" process](../../common/membership_changes.md#decided-by-team-no-objections).
 
 **People leave the team by**:
 
