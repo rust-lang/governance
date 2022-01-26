@@ -36,7 +36,7 @@ This team is responsible for maintaining the **standard libraries**, which invol
 
  - Documentation of the **standard libraries**
  - Triaging issues pertaining to the **standard libraries** (high/critical priority within < 1 week)
- - Reviewing PRs in collaboration with the [library-contributors] group
+ - [Reviewing PRs](https://std-dev-guide.rust-lang.org/reviewing.html) in collaboration with the [library-contributors] group
  - Supporting the [library-contributors] group with guidance, etc
  - Running [Major Change Proposals][MCP]
  - Keeping the standard libraries stable according to the [stability policy]
