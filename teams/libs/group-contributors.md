@@ -15,7 +15,7 @@ For the purposes of this document, the "**standard libraries**" refer to the lib
 
 This team is responsible for working on the implementation of the **standard libraries**, which involves:
 
- - Reviewing PRs to the **standard library** in a timely manner.
+ - [Reviewing PRs](https://std-dev-guide.rust-lang.org/reviewing.html) to the **standard library** in a timely manner.
  - Improving the implementation of the **standard library**
  - Implementing new RFCd **standard library** features when necessary
 

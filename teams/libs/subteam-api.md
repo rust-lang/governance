@@ -15,7 +15,7 @@ For the purposes of this document, the "**standard libraries**" refer to the lib
 This team is responsible for evolving the API of the **standard libraries**, which involves:
 
  - Reviewing and shepherding library RFCs in a timely manner
- - Reviewing PRs adding unstable APIs
+ - [Reviewing PRs](https://std-dev-guide.rust-lang.org/reviewing.html) adding unstable APIs
  - Stabilizing APIs when appropriate.
 
 ## How does this group make decisions?
